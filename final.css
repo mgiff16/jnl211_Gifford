@@ -1,0 +1,82 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        color: #333;
+    }
+    .header {
+        background-color: #333;
+        color: #fff;
+        padding: 40px;
+        text-align: center;
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 48px;
+        font-weight: bold;
+        margin-bottom: 10px; /* Add some space between title and author */
+    }
+    .author {
+        background-color: #f2f2f2;
+        color: #333;
+        padding: 10px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .container {
+        max-width: 2000px;
+        margin: 0 auto;
+        padding: 10px;
+        text-align: left;    
+    }
+    h1, h2, h3, h4 {
+        font-family: 'Poppins', Arial, sans-serif;
+    }
+    h1 {
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    h2 {
+        color: #008080; /* Dark Cyan */
+        font-size: 24px;
+        font-weight: bold;
+    }
+    h3 {
+        color: #006400; /* Dark Green */
+        font-size: 20px;
+        font-weight: bold;
+    }
+    h4 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .image-credit {
+        font-size: 14px;
+        font-style: italic;
+        color: #777;
+    }
+    .footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+        width: 100%;
+    }
+    .footer p {
+        margin: 0;
+        font-size: 14px;
+    }
+
+    /* Highlight class */
+    .highlight {
+        background-color: yellow;
+        padding: 5px; /* Optional: Add some padding for better visual */
+    }
+
+</style>
